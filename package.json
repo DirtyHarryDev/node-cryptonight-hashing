@@ -1,0 +1,27 @@
+{
+    "name": "cryptonight-hashing",
+    "version": "1.0.0",
+    "main": "cryptonight-hashing",
+    "author": {
+        "name": "Dirty Harry",
+        "email": "olaf.wasilewski@gmx.de"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DirtyHarryDev/node-cryptonight-hashing.git"
+    },
+    "dependencies": {
+        "bindings": "*",
+        "nan": "^2.8.0"
+    },
+    "keywords": [
+        "cryptonight",
+        "randomx",
+        "cuckaroo29",
+        "argon2",
+        "astrobwt",
+        "KangarooTwelve",
+        "monero",
+        "kawpow"
+    ]
+}
